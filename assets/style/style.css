@@ -1,0 +1,28 @@
+/* BASIC STYLES HERE */
+main {
+  background-color: grey;
+}
+
+.lists {
+  min-height: 40vh;
+  box-shadow: unset;
+}
+
+.font {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.task {
+  background-color: white;
+}
+
+ul {
+  padding: unset;
+}
+
+h1 {
+  font-size: 5rem;
+  text-shadow: 3px 5px 4px grey;
+  font-family: 'Shadows Into Light', cursive;
+
+}
